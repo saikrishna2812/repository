@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testcontainer:TestContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:testcontainer="http://www.talend.com/testcontainer.ecore" xmi:id="_1tJGcN22EeaTF-zdPYVUDQ">
+  <parameters xmi:id="_1tJGcd22EeaTF-zdPYVUDQ">
+    <routinesParameter xmi:id="_1tJGct22EeaTF-zdPYVUDQ" id="_9IfoUNzzEeazMdMG21Qy7A" name="DataOperation"/>
+    <routinesParameter xmi:id="_1tJGc922EeaTF-zdPYVUDQ" id="_9IlH4NzzEeazMdMG21Qy7A" name="Mathematical"/>
+    <routinesParameter xmi:id="_1tJGdN22EeaTF-zdPYVUDQ" id="_9Ij5wNzzEeazMdMG21Qy7A" name="Numeric"/>
+    <routinesParameter xmi:id="_1tJGdd22EeaTF-zdPYVUDQ" id="_9Ig2cNzzEeazMdMG21Qy7A" name="Relational"/>
+    <routinesParameter xmi:id="_1tJGdt22EeaTF-zdPYVUDQ" id="_9Hp60NzzEeazMdMG21Qy7A" name="SQLike"/>
+    <routinesParameter xmi:id="_1tJGd922EeaTF-zdPYVUDQ" id="_9IiEkNzzEeazMdMG21Qy7A" name="StringHandling"/>
+    <routinesParameter xmi:id="_1tJGeN22EeaTF-zdPYVUDQ" id="_9IjSsNzzEeazMdMG21Qy7A" name="TalendDataGenerator"/>
+    <routinesParameter xmi:id="_1tJGed22EeaTF-zdPYVUDQ" id="_9IdzINzzEeazMdMG21Qy7A" name="TalendDate"/>
+    <routinesParameter xmi:id="_1tJGet22EeaTF-zdPYVUDQ" id="_9ImWANzzEeazMdMG21Qy7A" name="TalendString"/>
+  </parameters>
+</testcontainer:TestContainer>
